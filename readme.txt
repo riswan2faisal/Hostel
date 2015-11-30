@@ -5,13 +5,13 @@ Chennai, Tamil Nadu, India
 B.Tech (CSE) - IV Year (VII Semester)
 CS405 / INTERNET PROGRAMMING LAB (July '15 - Dec ’15)
 
-PROJECT TITLE       :   RoadAssist
+PROJECT TITLE       :   Hostel Management
 PROJECT MEMBERS     :   Mohamed Riswan, Mohamed Faisal
 PROJECT INSTRUCTOR  :   Dr. R Shriram
 
-DESCRIPTION: 
+DESCRIPTION:
 	 This particular project deals with the problems on managing a hostel and avoids the problems which occur when carried manually. Identification of the drawbacks of the existing system leads to the designing of computerized system that will be compatible to the existing system with the system Which is more user friendly and more GUI oriented. We can improve the efficiency of the system, thus overcome the drawbacks of the existing system.
-That's all about our site in a nutshell. To see more, you can use the instructions given below to set it up on your local machine. 
+That's all about our site in a nutshell. To see more, you can use the instructions given below to set it up on your local machine. This project has been developed as a part of the curriculum for the course CS405
 
 INSTRUCTIONS:
     1. Once you have cloned the repo to your local machine, you can run them after putting them in a local server such as a wamp server or xampp server.
